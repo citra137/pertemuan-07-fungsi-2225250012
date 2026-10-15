@@ -1,4 +1,3 @@
-
 # Pertemuan 07 - Fungsi dalam Python
 
 ## Identitas
@@ -18,7 +17,7 @@ Proyek ini dibuat untuk mempelajari fungsi dalam Python, parameter, argumen, ret
 - `latihan/04_statistik_sederhana.py` - Menghitung nilai minimum, maksimum, dan rata-rata.
 - `latihan/05_scope.py` - Memahami scope variabel.
 - `praktik/utilitas_matematika.py` - Program menu utilitas matematika.
-- `Kuis_Formatif_Pertemuan_07.docx` - Jawaban kuis formatif.
+-- `Kuis_Formatif_Pertemuan_07_2225250012.docx` - Jawaban kuis formatif.
 
 ## Cara Menjalankan
 Jalankan perintah berikut dari folder utama proyek:
